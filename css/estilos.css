@@ -38,3 +38,9 @@
   align-items: center;
   justify-content: center;
 }
+ iframe {
+      border: none;
+      width: 80%;
+      height: 90vh;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Opcional: da estilo */
+    }
